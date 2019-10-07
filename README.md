@@ -5,7 +5,7 @@
 
 pdf see:calculate.pdf
 
-## 后续
+## Visualization
 可以像[Seeing-Theory](https://github.com/seeingtheory/Seeing-Theory)这个项目一样进行动态可视化。
 
 ## Copyright and License
