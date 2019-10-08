@@ -3,9 +3,11 @@
 
 无穷小量，一种类似于原子的观点。
 
+Example
+
 ![showfig](show.png)
 
-pdf see:calculator.pdf
+more see:calculator.pdf
 
 ## Visualization
 可以像 [Seeing-Theory](https://github.com/seeingtheory/Seeing-Theory) 这个项目一样进行动态可视化。
