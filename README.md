@@ -3,7 +3,7 @@
 
 无穷小量，一种类似于原子的观点。
 
-![show.png]
+![showfig](show.png)
 
 pdf see:calculator.pdf
 
